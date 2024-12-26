@@ -102,4 +102,4 @@ GET /api/tags
 
 ## 许可证
 
-MIT License
+[MIT](LICENSE)
